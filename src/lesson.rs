@@ -16,4 +16,5 @@ fn main(){
     let mut nums : [u8; 5] = [1,5,2,7,3];
     nums[0] = 10;
     println!("Info: {}", nums[0]);
+
 }
